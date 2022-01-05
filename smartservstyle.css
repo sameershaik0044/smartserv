@@ -1,0 +1,25 @@
+#logindiv
+{
+    
+}
+#emailid
+{
+    
+    width:250px;
+    height:25px;
+    line-height: 100;
+    margin-bottom: 20px;
+
+}
+#passwordid
+{
+    width:250px;
+    height:25px;
+    margin-bottom: 30px;
+}
+#submitid
+{
+    width:258px;
+    height:31px;
+    margin-bottom: 30px;
+}
